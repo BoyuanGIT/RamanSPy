@@ -1,1 +1,4 @@
-111
+git branch -m master masterby
+git fetch origin
+git branch -u origin/masterby masterby
+git remote set-head origin -a
